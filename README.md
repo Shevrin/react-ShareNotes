@@ -1,3 +1,3 @@
-# ShareNotes
-ShareNotes - сервис для обмена заметками
-React-приложение обмена заметками/сообщениями через OpenServer
+ShareNotes
+
+ShareNotes - сервис для обмена заметками React-приложение обмена заметками/сообщениями через OpenServer

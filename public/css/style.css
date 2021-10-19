@@ -1,0 +1,64 @@
+html, body, #root {
+    height: 100%;
+
+}
+
+#root {
+display: flex;
+flex-direction: column;
+padding: 10px 20px 20px 20px;
+margin: 5px;
+background-color: rgb(230, 225, 225);
+}
+
+.hide {
+    display: none;
+}
+
+.form-group {
+display: block;
+margin-bottom: 10px;
+height: 100px;
+width: 500px;
+padding: 0px, 15px;
+}
+
+.form-control {
+    display: block;
+    margin-bottom: 10px;
+    max-width: 300px;
+}
+
+.navbar {
+    list-style-type: none; 
+     width: 100%;
+    padding: 0px 5px;
+    display: block;
+}
+
+ul li {
+    display: inline-block;
+    margin-left: 10px;
+    list-style: none;
+   
+}
+
+ul li a {
+    text-decoration: none;
+    padding: 5px 5px;
+    
+}
+
+.hash-text {
+    margin-bottom: 10px;
+}
+.active {
+    color:crimson
+}
+
+.brn{
+    display: block;
+    background-color: lightslategray;
+    margin-bottom: 10px;
+}
+
